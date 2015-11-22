@@ -1,8 +1,15 @@
 # swproxy 
-[![NPM version][npm-image]][npm-url] [![wercker status](https://app.wercker.com/status/60a2d039560adbf52b7b1467b49fdc7a/m/master "wercker status")](https://app.wercker.com/project/bykey/60a2d039560adbf52b7b1467b49fdc7a)
+[![NPM version][npm-image]][npm-url] [![wercker status](https://app.wercker.com/status/896afe61c5ac7b35e2bdb49061006957/m/master "wercker status")](https://app.wercker.com/project/bykey/896afe61c5ac7b35e2bdb49061006957)
 [![Dependency Status][daviddm-image]][daviddm-url]
 
 ## work in progress
+
+Base package to write a custom mod for the swproxy library.
+
+### 1.) install this package as a dev dependencie
+‘‘‘
+npm install --save-dev swproxy-mod
+‘‘‘
 
 
 [npm-image]: https://badge.fury.io/js/swproxy-mod.svg
