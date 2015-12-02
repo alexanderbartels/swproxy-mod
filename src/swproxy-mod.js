@@ -16,11 +16,13 @@ class SwProxyMod {
    * @param swproxy the swproxy instance. Install, activate and fetch rules can be added to it
    * @returns {Function} the function that will be added to the global Namespace, to create rules.
      */
+  /*eslint-disable no-unused-vars */
   static factoryMethod(swproxy) {
     return (rule1, rule2, rule3, rule4, ...args) => {
       // implement rule creation
-    }
+    };
   }
+  /*eslint-enable*/
 }
 
 class SwProxyModRule {
