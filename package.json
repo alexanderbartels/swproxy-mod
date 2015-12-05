@@ -1,6 +1,6 @@
 {
   "name": "swproxy-mod",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "base package to write mods for the swproxy library",
   "homepage": "http://www.alexanderbartels.com/swproxy-www",
   "author": {
@@ -10,7 +10,7 @@
   "files": [
     "dist"
   ],
-  "main": "dist/index.js",
+  "main": "dist/swproxy-mod.js",
   "keywords": [
     "swproxy",
     "swproxy-mod",
